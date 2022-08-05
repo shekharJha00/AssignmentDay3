@@ -26,8 +26,8 @@ public class Employeewage {
         return rno;
     }
     public static void main(String[] args) {
-        int dieNumber = getRno();
-        System.out.println(dieNumber);
+        int Rno = getRno();
+        System.out.println(Rno);
 
         System.out.println("Welcome to EmployeeWage computation");
         int dailyEmployeeWage = 0;
